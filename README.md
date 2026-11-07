@@ -113,6 +113,7 @@ For the case i went with two transparent acrylic panels, one on top and one on b
 | Micro:bit Edge Connector 40-pin 90 Degree | 1 | [Link](https://www.flipkart.com/yellow-tommy-microbit-40-pin-header-90-degree-angle-edge-connector-pack-5-electronic-components-hobby-kit/p/itm9f87dd64a093b) | Microbit Edge Connector | $7.43 |
 | BBC Microbit V2 | 1 | [Link](https://robu.in/product/bbc-micro-bit-v2-pocket-sized-single-board-computer/) | MCU | $22.85 |
 | 18650 SMD Single Battery Holder | 1 | [Link](https://robu.in/product/18650-battery-holder-smd-smt/) | 18650 Battery Holder | $0.5 |
+| 18650 Battery| 1 | [Link](https://robu.in/product/dmegc-inr18650-26e-3-7v-2600mah-li-ion-battery/) | 18650 Battery | $2.44 |
 | TP4056 SMD IC | 1 | [Link](https://robu.in/product/1-month-warranty-1253/) | Li-ion Charger IC | $0.1 |
 | DW01A Battery Protection IC SOT-23-6 | 3 | [Link](https://robu.in/product/dw01a-4-3v-lithium-ion-lithium-polymer-battery-protection-ic-6pin-sot-23/) | Battery Protection IC | $0.13 |
 | FS8205A Dual MOSFET SOT-23-6 | 2 | [Link](https://robu.in/product/1-month-warranty-398/) | Dual N-MOSFET | $0.18 |
@@ -134,4 +135,4 @@ For the case i went with two transparent acrylic panels, one on top and one on b
 | 10K 0805 Resistor | 2 | [Link](https://robu.in/product/rc0805jr-0710kl-yageo-res-thick-film-0805-10k-ohm-5-0-125w1-8w-%C2%B1100ppm-c-pad-smd-t-r/) | Resistor | $0.1 |
 | 120K 0805 Resistor | 1 | [Link](https://robu.in/product/rc0805fr-07120kl-yageo-res-thick-film-0805-120k-ohm-1-0-125w1-8w-%C2%B1100ppm-c-pad-smd-t-r/) | Resistor | $0.1 |
 | 300K 0805 Resistor | 1 | [Link](https://robu.in/product/rc0805fr-07300kl-yageo-res-thick-film-0805-300k-ohm-1-0-125w1-8w-%25c2%25b1100ppm-c-pad-smd-t-r/) | Resistor | $0.1 |
-| **TOTAL** | | | | **~ $61.81** |
+| **TOTAL** | | | |  $64.21 |
