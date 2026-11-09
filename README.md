@@ -77,6 +77,7 @@ I poured copper with the GND net on both the top and bottom layers, and added vi
 The Case/CAD is designed in Onshape
 
 **Onshape:** [Open CAD model](https://cad.onshape.com/documents/08b3f6e79f648ac5b1a837d6/w/fd33090a4ac3aeb19b806cc8/e/8d36c46b3c2b914df7cd311f)
+**Onshape:** [Assembly Link](https://cad.onshape.com/documents/08b3f6e79f648ac5b1a837d6/w/fd33090a4ac3aeb19b806cc8/e/730c3faaf1a0686c555cb4f5)
 
 For the case i went with two transparent acrylic panels, one on top and one on bottom the PCB sits between them, held by hex spacers i also made button extenders which can be 3D printed.
 
